@@ -1,6 +1,6 @@
-# 🛒 Shopify - Responsive Shopping Cart
+# 🛒 Add to Cart Task Using Router
 
-This is a **responsive shopping cart** built using **React.js & Tailwind CSS**. It allows users to **add, update, and remove** products from the cart and calculates the total price dynamically.
+This is a **responsive shopping cart** built using **React.js & Tailwind CSS & React Router**. It allows users to **add, update, and remove** products from the cart and calculates the total price dynamically.
 
 ---
 
@@ -37,15 +37,3 @@ This is a **responsive shopping cart** built using **React.js & Tailwind CSS**. 
 git clone https://github.com/yourusername/shopify-cart-b20.git
 cd shopify-cart
 ```
-
-/ecommerce-cart
-│── /src
-│ ├── /components
-│ │ ├── Home.js # Displays products
-│ │ ├── Cart.js # Shopping cart functionality
-│ │ ├── Payment.js # Payment success screen
-│ │ ├── Navbar.js # Navigation bar
-│ ├── App.js # Main app component
-│ ├── index.js # Entry point
-│── package.json
-│── README.md
